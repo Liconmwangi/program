@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()[
+    floatA,P,r,n,t;
+    prinf(principal(p));
+        prinf(rate(r));
+            prinf(number of times (n));
+                prinf(perid (t));
+        A = P(1+r/n)^(n*t)
+        printf(Amount(a):%lf\n",a);
+        return 0;
+    ]

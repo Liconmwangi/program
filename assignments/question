@@ -1,0 +1,27 @@
+#includestdio.h 
+int main() {
+    int bookID, dueDate, returnDate,daysOverdue, fineRate, fineAccount;
+    printf("BOOK ID")
+    printf("DUE DATE")
+    printf("RETURN DATE")
+    
+    // calculate days overdue
+      DAYSOVERDUE = DATEOVERDUE - RETURNDATE;
+    // rate 
+    if(daysoverdue<=7 ){finerate=10.00;}
+    else if (daysoverdue<=14) {finerate =20.00}
+     else if (daysoverdue<=30) {finerate =30.00}
+     else [finerate=50.00]
+     //calculate fine amount
+     fineamount = daysoverdue * finerate;
+
+    printf("BOOK ID:%d\n", bookID")
+    printf("DUE DATE: %d\n",DueDate")
+    printf("return date: %d\n",Return Date")
+    printf("days overdue: %d\n",Days Overdue")
+    printf("fine rate: %d\n",Fine Rate")
+    printf("fine amount: %d\n",Fine Amount")
+          
+
+return 0;
+}
